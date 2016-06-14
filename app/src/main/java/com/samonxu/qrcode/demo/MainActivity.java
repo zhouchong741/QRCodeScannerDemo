@@ -8,9 +8,6 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-/**
- * Created by Samon Xu on 2016/03/22 0022.
- */
 public class MainActivity extends Activity implements View.OnClickListener {
 
     private TextView resultTv;
